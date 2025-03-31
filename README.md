@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi , I am Kathir Moorthy:
 🚀 MERN Stack Developer | Web Enthusiast | Code Explorer<br><br>Hey there! I'm a MERN Stack Developer passionate about crafting dynamic, high-performance web applications. With expertise in MongoDB, Express.js, React.js, and Node.js, I build seamless digital experiences that are both functional and visually appealing.<br><br>💡 I thrive on solving complex problems, writing clean and efficient code, and continuously learning new technologies to stay ahead in the game. Whether it’s designing an intuitive UI or optimizing backend performance, I love every bit of web development!<br><br>🌟 Fun Facts About Me:<br>🎨 I consider coding an art—every line of code is like a brushstroke on a digital canvas!<br>🎮 When not coding, I might be playing games, exploring new tech, or brainstorming my next big project.<br>☕ My productivity fuel? A good cup of coffee and the thrill of debugging!<br><br>🤔 Ask Me About:<br>✅ Building full-stack applications<br>✅ Optimizing React performance<br>✅ JavaScript tricks & best practices<br>✅ How I survived my first 1000+ lines of code!
 
 
